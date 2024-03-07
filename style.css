@@ -319,7 +319,7 @@ section .title::after {
 
 .services .serv-content .card {
     width: calc(33% - 20px);
-    background: #ffffff;
+    background: #222;
     text-align: center;
     border-radius: 6px;
     padding: 50px 25px;
@@ -793,8 +793,6 @@ footer span a:hover {
     .right form .error-box {
         width: 150px;
     }
-
-
 
     .scroll-up-btn {
         right: 15px;
